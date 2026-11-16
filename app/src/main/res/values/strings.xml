@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zyro</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_rooms">Rooms</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_profile">Profile</string>
+    <string name="search_user_id_hint">Search by User ID (e.g. ZYRO-204)</string>
+    <string name="official_admin_tag">ADMIN</string>
+    <string name="vip_price_label">₹200 / month</string>
+</resources>

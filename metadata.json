@@ -1,0 +1,6 @@
+{
+  "name": "Zyro",
+  "description": "Zyro social gaming & voice room lounge featuring Carrom, Uno, YouTube video rooms, gifting, VIP perks, CP weddings, and moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
